@@ -23,7 +23,7 @@
 
 ```bash
 💻 Programming:        Python | C/C++ | C# | Java | Bash
-🔧 DevOps Tools:       Git | Docker | GitHub Actions (beginner)
+🔧 DevOps Tools:       Git | Docker | GitHub Actions | Kubernetes (beginner)
 ☁️ Cloud Platforms:    Learning AWS basics
 📡 IoT Hardware:       Arduino | ESP32 | Raspberry Pi (learning)
 ⚡ Power Systems:       Motors | Transformers | Circuit simulation tools
