@@ -31,6 +31,6 @@
 ```
 ### 🌐 Let's Link Up
 - 📧 **Email    :**[mhdroman171@gmail.com]
-- 💼 **LinkedIn :**[www.linkedin.com/in/mohamed-aslam-18b245338]
+- 💼 **LinkedIn :**[www.linkedin.com/in/iamaslam]
 
 ### <p align="center"> 🔌 Learning one step at a time. Let’s grow together! 🌱</p> 
