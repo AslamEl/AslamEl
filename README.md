@@ -71,10 +71,6 @@ I'm an engineering undergraduate passionate about combining **hardware and softw
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslamEl&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AslamEl&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
@@ -82,9 +78,6 @@ I'm an engineering undergraduate passionate about combining **hardware and softw
   <img src="https://github-profile-trophy.vercel.app/?username=AslamEl&theme=algolia&no-frame=true&column=4" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AslamEl&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
 
 ---
 
