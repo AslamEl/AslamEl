@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamaslam&label=Profile%20views&color=0e75b6&style=flat" alt="iamaslam" />
+  <img src="https://komarev.com/ghpvc/?username=AslamEl&label=Profile%20views&color=0e75b6&style=flat" alt="AslamEl" />
 </p>
 
 ---
@@ -45,6 +45,15 @@ I'm an engineering undergraduate passionate about combining **hardware and softw
 
 ---
 
+### 🤖 AI / Machine Learning  
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
+
+---
 
 ### 🛠️ Tools & Platforms  
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
@@ -58,23 +67,23 @@ I'm an engineering undergraduate passionate about combining **hardware and softw
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamaslam&show_icons=true&theme=tokyonight&count_private=true" alt="Aslam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AslamEl&show_icons=true&theme=tokyonight&count_private=true" alt="AslamEl's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamaslam&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslamEl&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamaslam&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AslamEl&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamaslam&theme=algolia&no-frame=true&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AslamEl&theme=algolia&no-frame=true&column=4" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamaslam&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AslamEl&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -87,5 +96,5 @@ I'm an engineering undergraduate passionate about combining **hardware and softw
 ---
 
 <p align="center">
- “Building smarter systems. One layer at a time.” 
+✨ “Building smarter systems. One layer at a time.” ✨
 </p>
