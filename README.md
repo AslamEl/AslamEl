@@ -1,93 +1,27 @@
-<h1 align="center">👋 Hi, I'm Aslam</h1>
+# 💫 About Me:
+I'm an engineering undergraduate passionate about combining hardware and software systems to build scalable, intelligent, and automated solutions. My core interests span across:<br><br>⚡ Electrical Engineering (Power Systems, Circuits, Control Systems)<br>📡 Electronics & Telecommunication (Signal Processing, Embedded Systems, Wireless Communication)<br>☁️ Cloud & DevOps Engineering (CI/CD, Infrastructure as Code, Monitoring)<br>🤖 AI, ML & Automation (Data-Driven Decision Systems)
 
-<p align="center">
-🎓 Electrical & Information Engineering Undergraduate | 📍 University of Ruhuna  
-💡 Passionate about Electrical, Electronics, Telecommunication, DevOps & Cloud Engineering  
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AslamEl&label=Profile%20views&color=0e75b6&style=flat" alt="AslamEl" />
-</p>
+## 🌐 Socials:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamaslam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eg244942@engug.ruh.ac.lk) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AslamEl&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AslamEl&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AslamEl&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 📌 About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AslamEl&theme=calm&no-frame=false&no-bg=false&margin-w=4)
 
-I'm an engineering undergraduate passionate about combining **hardware and software** systems to build scalable, intelligent, and automated solutions. My core interests span across:
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- ⚡ Electrical Engineering (Power Systems, Circuits, Control Systems)  
-- 📡 Electronics & Telecommunication (Signal Processing, Embedded Systems, Wireless Communication)  
-- ☁️ Cloud & DevOps Engineering (CI/CD, Infrastructure as Code, Monitoring)  
-- 🤖 AI, ML & Automation (Data-Driven Decision Systems)
-
----
-
-## 📚 Currently Learning
-
-### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AslamEl&limit=5&theme=yeblu&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AslamEl&icon=5&color=6)](https://visitcount.itsvg.in)
 
-### ☁️ DevOps & Cloud Basics  
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode)
-
----
-
-### 🤖 AI / Machine Learning  
-![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
-
----
-
-### 🛠️ Tools & Platforms  
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![Neo4j](https://img.shields.io/badge/-Neo4j-05122A?style=flat&logo=neo4j)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AslamEl&show_icons=true&theme=tokyonight&count_private=true" alt="AslamEl's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AslamEl&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AslamEl&theme=algolia&no-frame=true&column=4" alt="GitHub Trophies" />
-</p>
-
-
----
-
-## 🔗 Let's Connect
-
-- 📧 Email: [mhdroman171@gmail.com](mailto:mhdroman171@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/iamaslam](https://www.linkedin.com/in/iamaslam/)
-
----
-
-<p align="center">
-✨ “Building smarter systems. One layer at a time.” ✨
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
