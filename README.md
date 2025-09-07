@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an engineering undergraduate passionate about combining hardware and software systems to build scalable, intelligent, and automated solutions. My core interests span across:<br><br>⚡ Electrical Engineering (Power Systems, Circuits, Control Systems)<br>📡 Electronics & Telecommunication (Signal Processing, Embedded Systems, Wireless Communication)<br>☁️ Cloud & DevOps Engineering (CI/CD, Infrastructure as Code, Monitoring)<br>🤖 AI, ML & Automation (Data-Driven Decision Systems)
+I’m an engineering undergraduate passionate about Cloud & DevOps Engineering and Electronics & Telecommunication, focusing on building scalable, automated, and intelligent systems.
 
 <p align="center">
   <img 
